@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "atharvaenergy-website",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
